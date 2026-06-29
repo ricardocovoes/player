@@ -1,0 +1,17 @@
+{
+  "id": "com.coliseu.signflow.player",
+  "version": "1.0.0",
+  "vendor": "Coliseu de Lisboa",
+  "type": "web",
+  "main": "index.html",
+  "title": "SignFlow Player",
+  "icon": "icon.png",
+  "iconColor": "#1d4ed8",
+  "bgColor": "#000000",
+  "transparent": false,
+  "requiredPermissions": [
+    "capture",
+    "signage.serial",
+    "signage.power"
+  ]
+}
